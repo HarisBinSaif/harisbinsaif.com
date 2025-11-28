@@ -1,0 +1,41 @@
+{
+  "designing-scalable-data-architectures": {
+    "title": "Designing Scalable Data Architectures: A Complete Guide",
+    "excerpt": "Learn the fundamental principles and patterns for building data systems that scale with your business needs.",
+    "date": "2024-01-15",
+    "category": "Architecture",
+    "tags": [
+      "Data Engineering",
+      "Architecture",
+      "Scalability",
+      "Best Practices"
+    ],
+    "author": "Haris Bin Saif"
+  },
+  "data-quality-best-practices": {
+    "title": "Data Quality Best Practices: Prevention Over Detection",
+    "excerpt": "Why catching data quality issues early saves time, money, and prevents downstream failures.",
+    "date": "2024-01-05",
+    "category": "Best Practices",
+    "tags": [
+      "Data Quality",
+      "Best Practices",
+      "Data Engineering",
+      "Testing"
+    ],
+    "author": "Haris Bin Saif"
+  },
+  "ai-agents-in-data-engineering": {
+    "title": "AI Agents in Data Engineering: The Future is Here",
+    "excerpt": "Exploring how AI agents are transforming data pipeline development and operations.",
+    "date": "2024-01-10",
+    "category": "AI",
+    "tags": [
+      "AI",
+      "Data Engineering",
+      "Automation",
+      "Machine Learning"
+    ],
+    "author": "Haris Bin Saif"
+  }
+}
