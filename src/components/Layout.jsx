@@ -70,7 +70,7 @@ const Layout = ({ children }) => {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/haris-bin-saif"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg glass hover:bg-white/10 transition-colors"
